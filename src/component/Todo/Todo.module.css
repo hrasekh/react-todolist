@@ -1,0 +1,28 @@
+.todolist{
+    list-style: none;
+    text-align: left;
+}
+
+.todolist li{
+    padding: 10px;
+    font-size: 16px;
+}
+
+
+.todolist li input{
+    margin-right: 10px;
+    vertical-align: middle;
+    height: 30px;
+    width: 30px;
+}
+
+.todolist li label{
+    font-size: 20px;
+    vertical-align: middle;
+}
+
+
+.todolist li label.done{
+    text-decoration: line-through;
+    color: gray;
+}
