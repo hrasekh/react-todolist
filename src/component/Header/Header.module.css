@@ -1,0 +1,13 @@
+.header{
+    color: red;
+}
+
+.todoinput{
+    width: 500px;
+    height: 50px;
+    color: gray;
+    font-size: 20px;
+    font-style: italic;
+    padding: 10px 30px;
+}
+
