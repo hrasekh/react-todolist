@@ -8,3 +8,7 @@ In the project directory, you can run:
 
 ### `yarn`
 ### `yarn start`
+
+
+# The main of the project
+It's going to show a simple code to create a to-do list
